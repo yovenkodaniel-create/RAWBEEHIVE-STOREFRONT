@@ -1,0 +1,12 @@
+{
+  "general": {
+    "404": "Page not found",
+    "no_cookies": "Your browser does not support cookies"
+  },
+  "shop": {
+    "add_to_cart": "Add to Cart",
+    "view_cart": "View Cart",
+    "subscribe": "Subscribe",
+    "sold_out": "Sold Out"
+  }
+}
